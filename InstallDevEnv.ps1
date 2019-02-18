@@ -17,7 +17,7 @@ choco install discord  -y
 
 # Install Utilities
 choco install dropbox -y
-choco install googledrive  -y
+choco install google-backup-and-sync   -y
 choco install procmon  -y
 choco install windirstat  -y
 choco install git --params "/GitAndUnixToolsOnPath" -y
